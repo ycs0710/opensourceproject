@@ -29,8 +29,8 @@
 
 이 프로그램은 다음 자료와 프로그램을 참고하고 이용하여 개발되었습니다.
 
-[눈 근육 스트레칭 YouTube 영상 링크](https://www.youtube.com/watch?v=v17nMtAQDOQ)
-[눈 건강 관련 블로그 글](https://www.bnviit.com/blog/health/%EC%86%8C%EC%A4%91%ED%95%9C-%EB%82%B4-%EB%88%88%EC%9D%84-%EC%A7%80%ED%82%A4%EB%A0%A4%EB%A9%B4-%EC%9D%BC%EC%83%81-%EC%86%8D-%EC%9E%91%EC%9D%80-%EC%8A%B5%EA%B4%80%EC%9C%BC%EB%A1%9C-%ED%8F%89%EC%83%9D/)
+[눈 근육 스트레칭 YouTube 영상 링크](https://www.youtube.com/watch?v=v17nMtAQDOQ),
+[눈 건강 관련 블로그 글](https://www.bnviit.com/blog/health/%EC%86%8C%EC%A4%91%ED%95%9C-%EB%82%B4-%EB%88%88%EC%9D%84-%EC%A7%80%ED%82%A4%EB%A0%A4%EB%A9%B4-%EC%9D%BC%EC%83%81-%EC%86%8D-%EC%9E%91%EC%9D%80-%EC%8A%B5%EA%B4%80%EC%9C%BC%EB%A1%9C-%ED%8F%89%EC%83%9D/),
 [챗지피티](https://chat.openai.com/)
 
 
